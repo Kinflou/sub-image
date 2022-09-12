@@ -1,0 +1,13 @@
+{
+  image: "unified_image.png",
+  size: [512, 512],
+
+  // To represent a sub image we need to know the TBLR coordinates
+  // (Top Bottom Left Right) from its starting point within the whole image
+  subs: {
+    circle: { top: 10, bottom: 50, left: 50, right: 10 },
+    triangle: { top: 100, bottom: 50, left: 50, right: 100 },
+    symbol: { top: 100, bottom: 50, left: 50, right: 100 },
+    squarion: { top: 100, bottom: 50, left: 50, right: 100 }
+  }
+}
