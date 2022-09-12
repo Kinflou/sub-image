@@ -2,6 +2,7 @@
 name = "sub-image"
 description = "Utility library to deal with images with sub-images inside of them"
 license-file = "../LICENSE"
+readme = "../README.md"
 version = "0.1.0"
 edition = "2021"
 
